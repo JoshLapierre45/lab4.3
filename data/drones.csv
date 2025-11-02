@@ -1,0 +1,4 @@
+drone_id,model,purchase_date,status
+DR-01,Mavic 3,2023-01-10,active
+DR-02,Skydio 2+,2023-06-21,active
+DR-03,Autel EVO II,2024-02-04,active

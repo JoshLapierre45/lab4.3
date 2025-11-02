@@ -1,0 +1,13 @@
+project_id,client,status,start_date,end_date
+P100,SolarOne,completed,2025-02-01,2025-01-31
+P101,CityWorks,active,2025-03-01,2025-02-28
+P102,AgriView,active,2025-04-01,2025-03-31
+P103,RealtyPro,active,2025-05-01,2025-04-30
+P104,SolarOne,completed,2025-06-01,2025-05-31
+P105,SolarOne,completed,2025-07-01,2025-06-30
+P106,SolarOne,active,2025-08-01,2025-07-31
+P107,SolarOne,active,2025-09-01,2025-08-31
+P108,CityWorks,active,2025-10-01,2025-09-30
+P109,AgriView,completed,2025-11-01,2025-10-31
+P110,RealtyPro,active,2025-12-01,2025-11-30
+P111,SolarOne,active,2026-01-01,2025-12-31
